@@ -15,15 +15,23 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 
 
-
 # Achievements in Audit Contests
 
-# Achievements in Audit Contests
-
-| Contest | Platform | Type of protocol | Findings | My report | Info |
-| :--- | :--- | :--- | :--- | :--- | --- |
-| [Munchables](https://code4rena.com/audits/2024-05-munchables) | Code4rena | Lending | 1M  | [Open](/C:/Users/Abdulwahed%20Talash/AppData/Local/Programs/Joplin/resources/app.asar/contests/Code4rena/WildCat.md "./contests/Code4rena/WildCat.md") |     |
-| [Taiko](https://code4rena.com/audits/2024-03-taiko) | Code4rena |     | Gas Optimization | [Open](https://code4rena.com/reports/2024-03-taiko) |     |
+| Contest | Platform | Findings | My report | Info |
+| :--- | :--- | :--- | :--- | --- |
+| [Munchables](https://code4rena.com/audits/2024-05-munchables) | Code4rena | 1M  | [Open](https://code4rena.com/reports/2024-05-munchables "./contests/Code4rena/WildCat.md") |     |
+| [SmartWallet](https://code4rena.com/audits/2024-03-smart-wallet) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2024-03-coinbase) |     |
+| [Badger eBTC](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition) | Code4rena | Gas | [Open](https://code4rena.com/reports/2023-10-badger) |     |
+| [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | Code4rena | Analysis, Gas | [Open](https://code4rena.com/reports/2023-11-kelp) |     |
+| [Panoptic](https://code4rena.com/audits/2023-11-panoptic) | Code4rena | Gas | [Open](https://code4rena.com/reports/2023-11-panoptic) |     |
+| [Canto](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2023-11-canto) |     |
+| [PoolTogether](https://code4rena.com/audits/2024-03-pooltogether) | Code4rena | Gas | [Open](https://code4rena.com/reports/2024-03-pooltogether) |     |
+| [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena) | Code4rena | Gas | [Open](https://code4rena.com/reports/2024-02-ai-arena) |     |
+| [Salty.IO](https://code4rena.com/audits/2024-01-saltyio) | Code4rena | Gas | [Open](https://code4rena.com/reports/2024-01-salty) |     |
+| [Revolution](https://code4rena.com/audits/2023-12-revolution-protocol) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2023-12-revolutionprotocol) |     |
+| [Taiko](https://code4rena.com/audits/2024-03-taiko) | Code4rena | Gas | [Open](https://code4rena.com/reports/2024-03-taiko) |     |
+| [Ethena-labs](https://code4rena.com/audits/2023-10-ethena-labs) | Code4rena | Gas | [Open](https://code4rena.com/reports/2023-10-ethena) |     |
+| [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar) | Code4rena | Gas | [Open](https://code4rena.com/reports/2023-10-opendollar) |     |
 
 # Professional Experience
 - 4 years of professional experience in software development
