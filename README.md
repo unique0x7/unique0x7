@@ -20,6 +20,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
 | [Munchables](https://code4rena.com/audits/2024-05-munchables) | Code4rena | 1M  | [Open](https://code4rena.com/reports/2024-05-munchables "./contests/Code4rena/WildCat.md") |     |
+| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | CodeHawks | Low | [Open](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1078) |     |
 | [SmartWallet](https://code4rena.com/audits/2024-03-smart-wallet) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2024-03-coinbase) |     |
 | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | Code4rena | Analysis, Gas | [Open](https://code4rena.com/reports/2023-11-kelp) |     |
 | [Panoptic](https://code4rena.com/audits/2023-11-panoptic) | Code4rena | Gas | [Open](https://code4rena.com/reports/2023-11-panoptic) |     |
