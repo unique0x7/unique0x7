@@ -19,7 +19,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
-| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | CodeHawks | 1M | [Open]([https://codehawks.cyfrin.io/c/2024-08-tadle/s/1078](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/572)) |     |
+| [Swan Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria) | CodeHawks | 1M | [Open](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/572) |     |
 | [Munchables](https://code4rena.com/audits/2024-05-munchables) | Code4rena | 1M  | [Open](https://code4rena.com/reports/2024-05-munchables "./contests/Code4rena/WildCat.md") |     |
 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | CodeHawks | Low | [Open](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1078) |     |
 | [SmartWallet](https://code4rena.com/audits/2024-03-smart-wallet) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2024-03-coinbase) |     |
