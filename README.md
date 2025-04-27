@@ -19,7 +19,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
-| [Forte: Float128 Solidity Library](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | CodeHawks | Q/A 🥉 | [Open](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) |     |
+| [Forte: Float128 Solidity Library](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | CodeHawks | Q/A | [Open](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) |  🥉   |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Code4rena | 1M | [Open](https://code4rena.com/audits/2025-01-liquid-ron/submissions/F-23) |     |
 | [Benqi](https://codehawks.cyfrin.io/c/2025-01-benqi) | CodeHawks | Low | [Close](https://codehawks.cyfrin.io/c/2025-01-benqi/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |     |
 | [Swan Dria](https://codehawks.cyfrin.io/c/2024-10-swan-dria) | CodeHawks | 1M | [Open](https://codehawks.cyfrin.io/c/2024-10-swan-dria/s/572) |     |
