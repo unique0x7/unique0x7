@@ -20,8 +20,8 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
 | [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) | Code4rena | 1H| [Report in prograss]() | Stellar, Rust    |
-| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | Code4rena | 3M , Q/A| [Open](https://code4rena.com/reports/2025-04-virtuals-protocol) | EVM, Solidity    |
-| [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | Cantina | 1H| [Open](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/findings/205) | EVM, Solidity     |
+| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | Code4rena | 3M , Q/A| [Open](https://code4rena.com/reports/2025-04-virtuals-protocol) | EVM, Solidity|
+| [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | Cantina | 1H| [Open](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/findings/205) | EVM, Solidity|
 | [Forte: Float128 Solidity Library](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | Code4rena | Q/A  🥉| [Open](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | EVM, Solidity     |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Code4rena | 1M | [Open](https://code4rena.com/audits/2025-01-liquid-ron/submissions/F-23) | EVM, Solidity     |
 | [Benqi](https://codehawks.cyfrin.io/c/2025-01-benqi) | CodeHawks | Low | [Close](https://codehawks.cyfrin.io/c/2025-01-benqi/results?lt=contest&page=1&sc=reward&sj=reward&t=report) | EVM, Solidity     |
@@ -38,8 +38,8 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Taiko](https://code4rena.com/audits/2024-03-taiko) | Code4rena | Gas | [Open](https://code4rena.com/reports/2024-03-taiko) | EVM, Solidity     |
 | [Ethena-labs](https://code4rena.com/audits/2023-10-ethena-labs) | Code4rena | Gas | [Open](https://code4rena.com/reports/2023-10-ethena) | EVM, Solidity     |
 | [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar) | Code4rena | Gas | [Open](https://code4rena.com/reports/2023-10-opendollar) | EVM, Solidity     |
-| [Badger eBTC Audit + Certora Formal Verification Competition](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition) | Code4rena | Gas 🥈 | [Open](https://code4rena.com/reports/2023-10-badger) | EVM, Solidity     |
-| [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2023-11-canto) | EVM, Solidity     |
+| [Badger eBTC Audit + Certora Formal Verification Competition](https://code4rena.com/audits/2023-10-badger-ebtc-audit-certora-formal-verification-competition) | Code4rena | Gas 🥈 | [Open](https://code4rena.com/reports/2023-10-badger) | EVM, Solidity |
+| [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2023-11-canto) | EVM, Solidity |
 
 # Professional Experience
 - 4 years of professional experience in software development
