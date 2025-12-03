@@ -19,7 +19,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
-| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | Code4rena | 3M , Q/A| [Report in progress](https://code4rena.com/audits/2025-04-virtuals-protocol) |     |
+| [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | Code4rena | 3M , Q/A| [Open](https://code4rena.com/reports/2025-04-virtuals-protocol) |     |
 | [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | Cantina | 1H| [Open](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/findings/205) |     |
 | [Forte: Float128 Solidity Library](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | Code4rena | Q/A  🥉| [Open](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) |     |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Code4rena | 1M | [Open](https://code4rena.com/audits/2025-01-liquid-ron/submissions/F-23) |     |
