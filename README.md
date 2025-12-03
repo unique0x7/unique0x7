@@ -19,7 +19,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
-| [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) | Code4rena | 1H| [In prograss]() | Stellar, Rust    |
+| [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) | Code4rena | 1H| [In&nbsp;&nbsp;prograss]() | Stellar, Rust    |
 | [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | Code4rena | 3M , Q/A| [Open](https://code4rena.com/reports/2025-04-virtuals-protocol) | EVM,&nbsp;&nbsp;Solidity|
 | [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | Cantina | 1H| [Open](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/findings/205) | EVM,&nbsp;&nbsp;Solidity|
 | [Forte: Float128 Solidity Library](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | Code4rena | Q/A  🥉| [Open](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | EVM,&nbsp;&nbsp;Solidity     |
