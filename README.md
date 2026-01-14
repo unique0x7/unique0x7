@@ -13,13 +13,28 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - [Twitter](https://twitter.com/unique0x0)
 - [Discord](https://discordapp.com/users/1164579178658668610)
 
+# Bug Bounties 
+
+<h3 align="center">  2026 </h3>
+
+| Bounties | Platform | Findings | My reports | Info |
+| :--- | :--- | :--- | :--- | --- |
+| [....](...) | .... | ...| [...]() | ...    |
 
 
 # Achievements in Audit Contests
 
+<h3 align="center">  2026 </h3>
+
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
-| |  | | 2025 |    |
+| [....](...) | .... | ...| [...]() | ...    |
+
+
+<h3 align="center">  2025 </h3>
+
+| Contest | Platform | Findings | My report | Info |
+| :--- | :--- | :--- | :--- | --- |
 | [Alignerz](https://github.com/dualguard/2025-11-alignerz) | Dualguard | 4H, 1Low| [In&nbsp;&nbsp;prograss]() | EVM, Solidity    |
 | [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) | Code4rena | 1H, Q/A| [In&nbsp;&nbsp;prograss]() | Stellar, Rust    |
 | [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | Code4rena | 3M , Q/A| [Open](https://code4rena.com/reports/2025-04-virtuals-protocol) | EVM,&nbsp;&nbsp;Solidity|
