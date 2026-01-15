@@ -19,7 +19,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Bounties | Platform | Findings | My reports | Info |
 | :--- | :--- | :--- | :--- | --- |
-| [....](...) | .... | ...| [...]() | ...    |
+| [USDN](https://immunefi.com/bug-bounty/usdn/scope/#top) | Immunefi | ...| [...]() | ...    |
 
 
 # Achievements in Audit Contests
