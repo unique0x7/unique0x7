@@ -28,7 +28,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
-| [....](...) | .... | ...| [...]() | ...    |
+| [Alchemix V3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/#top) | immunefi | 1 M | [open](https://drive.google.com/file/d/18LmIajwn6NOCbxKQJ49MVLyLSKb9gmD1/view?usp=sharing&utm_source=immunefi) | EVM, Solidity    |
 
 
 <h3 align="center">  2025 </h3>
