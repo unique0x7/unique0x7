@@ -28,7 +28,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Contest | Platform | Findings | My report | Info |
 | :--- | :--- | :--- | :--- | --- |
-| []() | immunefi |  | [open]() |     |
+| []() |  |  | [open]() |     |
 
 
 <h3 align="center">  2025 </h3>
