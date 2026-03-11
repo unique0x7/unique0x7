@@ -13,6 +13,12 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - [Twitter](https://twitter.com/unique0x0)
 - [Discord](https://discordapp.com/users/1164579178658668610)
 
+# Languages
+- Solidity
+- Rust
+- Move
+- GoLang
+
 # Bug Bounties 
 
 <h3 align="center">  2026 </h3>
@@ -59,4 +65,4 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s) | Code4rena | Analysis | [Open](https://code4rena.com/reports/2023-11-canto) | EVM,&nbsp;&nbsp;Solidity |
 
 # Professional Experience
-- 4 years of professional experience in software development
+- 5 years of professional experience in software development
